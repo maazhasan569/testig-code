@@ -1,7 +1,5 @@
-console.log("testing")
+let result = 10
+let counter = result++
 
+console.log(counter)
 
-const password = 'helloworld'
-if(password === 'helloworld') {
-    console.log('acces gained')
-}
